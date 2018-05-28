@@ -1,2 +1,0 @@
-# LetterToYourself
-LetterToYourself
